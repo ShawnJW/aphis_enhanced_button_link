@@ -1,0 +1,8 @@
+button_link_styles:
+  usa-button|Primary
+  usa-button--secondary|Secondary
+  usa-button--text|Text
+override_type: 1
+override_size: 1
+override_status: 0
+override_target: 1
